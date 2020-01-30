@@ -9,4 +9,9 @@ Name: "componente vue"
 let holis = () => "holis";
 
 </script>
-<style></syle>
+<style>
+	.trenza {
+		color: #020202;
+		font-family: Arial
+	}
+</style>
