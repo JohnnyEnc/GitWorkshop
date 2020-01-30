@@ -5,6 +5,9 @@ Export default {
 Name: "componente vue"
 
 }
+
+let holis = () => "holis";
+
 </script>
 
 <style></syle>
