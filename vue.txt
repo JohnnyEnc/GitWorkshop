@@ -1,0 +1,9 @@
+<template>
+</template>
+<script>
+Export default {
+Name: "componente vue"
+
+}
+</script>
+<style></syle>
