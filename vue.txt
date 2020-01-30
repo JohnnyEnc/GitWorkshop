@@ -7,3 +7,7 @@ Name: "componente vue"
 }
 </script>
 <style></syle>
+<div id="my_content" align="left" bgcolor="white">
+	<h4>HTML title here</h4>
+	<p>The div tag is a non-visual (by default) element that can be used to apply additional properties to content contained within it. Unlike the span tag</p>
+</div>
